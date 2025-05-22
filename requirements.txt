@@ -1,31 +1,31 @@
 # Core dependencies
-python-dotenv>=1.0.0
-langchain>=0.1.0
-langchain-community>=0.0.13
-langchain-core>=0.1.10
+python-dotenv
+langchain
+langchain-community
+langchain-core
 
 # LLM integration
-ollama>=0.1.5
+ollama
 
 # Memory storage
-mem0>=0.1.0  # OpenMemory SDK
+mem0ai  # OpenMemory SDK
 
 # Web search
-requests>=2.31.0
-beautifulsoup4>=4.12.2
+requests
+beautifulsoup4
 
 # Vector embeddings
-sentence-transformers>=2.2.2
+sentence-transformers
 
 # CLI interface
-typer>=0.9.0
-rich>=13.6.0
+typer
+rich
 
 # Optional Flask API
-flask>=2.3.3
-flask-cors>=4.0.0
+flask
+flask-cors
 
 # Utilities
-pydantic>=2.5.0
-python-dateutil>=2.8.2
-tqdm>=4.66.1
+pydantic
+python-dateutil
+tqdm
